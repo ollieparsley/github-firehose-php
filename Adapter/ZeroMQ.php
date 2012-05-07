@@ -3,6 +3,8 @@
 require('./Adapter.php');
 
 /**
+ * This class requires https://github.com/mkoppanen/php-zmq
+ * 
  * @copyright  Copyright (c) 2012 Hootware Ltd.
  * @license    http://hootware.com/licenses/internal
  * @author     Ollie Parsley <ollie@hootware.com>
