@@ -4,6 +4,7 @@ Convert the Github public events API into a firehose and push to a variety of ad
 
 ## Usage
 
+* Clone the repo, `git clone git@github.com:hootware/github-firehose.git`, or [download the latest release](https://github.com/hootware/github-firehose/zipball/master).
 * Copy the example-config.php file and rename to config.php
 * Get as many access tokens as you like, one will randomly be chosen (The more access tokens the more "real-time" the results can get
 * simple run `php firehose.php`
