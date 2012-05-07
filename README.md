@@ -15,3 +15,5 @@ In your config you can specify an adapter, that must be the class name of the ad
 For instance the Stdout adapter is in the Adapter/Stdout.php file and has the class name Adapter_Stdout and is specified in the config as `$adapterClass = 'Stdout';`
 
 To use an adapter simply extend the abstract Adapter class and place it in the Adapter directory. Name the class `Adapter_<name>` and name the file `<name>.php`.
+
+Feel free to fork and add your own adapters and push them back to this repo :)
